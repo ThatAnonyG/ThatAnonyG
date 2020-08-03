@@ -11,3 +11,7 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThatAnonymousG&show_icons=true&theme=tokyonight&hide_border=true">
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatAnonymousG&layout=compact">
