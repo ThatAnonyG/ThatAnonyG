@@ -4,7 +4,7 @@
 
 - 🔭 Currently working at [VorteKAcademy](https://vortekacademy.com/).
 - 🌱 I'm learning C++ and Java right now.
-- 👯 Reach me out for collaboration on paid projects.
+- 👯 Looking for collaborations and internships.
 - 💬 Ask me about JavaScript and Web Development in general.
 - 📫 You can always reach me out at 0anonymous0guy0@gmail.com or ratulsaha90.rs@gmail.com!
 
