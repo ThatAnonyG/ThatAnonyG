@@ -1,16 +1,13 @@
-### Hi there 👋
+## Ratul Saha (aka. ThatAnonymousG)
 
-<!--
-**ThatAnonymousG/ThatAnonymousG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I am Ratul Saha and I am 17 years old. Read more about me below!
 
-Here are some ideas to get you started:
+- 🔭 Currently working at [VorteKAcademy](https://vortekacademy.com/).
+- 🌱 I'm learning C++ and Java right now.
+- 👯 Reach me out for collaboration on paid projects.
+- 💬 Ask me about JavaScript and Web Development in general.
+- 📫 You can always reach me out at 0anonymous0guy0@gmail.com or ratulsaha90.rs@gmail.com!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThatAnonymousG&show_icons=true&hide_border=true">
