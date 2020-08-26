@@ -2,11 +2,14 @@
 
 ##### I am Ratul Saha and I am 17 years old. Read more about me below!
 
-- 🔭 Currently working at [VorteKAcademy](https://vortekacademy.com/).
-- 🌱 I'm learning C++ and Java right now.
+##### 💻 Check out my [Portfolio](https://thatanonymous.me).
+
+- 📍 I am from India.
+- 🔭 Currently working at [VorteKAcademy](https://vortekacademy.com).
+- 🌱 Currently I am learning C++.
 - 👯 Looking for collaborations and internships.
-- 💬 Ask me about JavaScript and Web Development in general.
-- 📫 You can always reach me out at 0anonymous0guy0@gmail.com or ratulsaha90.rs@gmail.com!
+- 💬 Ask me about JavaScript, Java or Web Development in general.
+- 📫 You can always reach me out at [me@thatanonymous.me](mailto:me@thatanonymous.me)!
 
 ---
 
