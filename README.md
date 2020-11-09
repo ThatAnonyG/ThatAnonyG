@@ -3,7 +3,7 @@
 ##### I am Ratul Saha and I am 17 years old. Read more about me below!
 
 #### 💻 Check out my [Portfolio](https://thatanonymous.me).
-#### 📖 Find me on [Linkedin](https://linkedin.com/in/ratuls)
+#### 📖 Find me on [Linkedin](https://linkedin.com/in/ratuls).
 
 - 📍 I am from India.
 - 🔭 Currently working at [VorteKAcademy](https://vortekacademy.com).
