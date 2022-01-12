@@ -4,11 +4,11 @@ Hello there. Welcome to my GitHub profile. I am a full time freelance web develo
 
 ## About Me
 
-- 👨‍💼 Currently working at [The Merakism Project](https://themerakismproject.com).
+- 👨‍💼 Currently working at [Cheffy](https://cheffy.us) as a Senior Full Stack Dev.
 - 💻 Check out my portfolio and blog at [ratulsaha.me](https://ratulsaha.me).
 - 👤 Find me on [LinkedIn](https://linkedin.com/in/ratuls).
 - ✨ DM me on [Twitter](https://twitter.com/ThatAnonyG) for anything.
-- ✉️ Want to work with me or ask me a question? Feel free to reach me out via email at [me@ratulsaha.me](mailto:me@ratulsaha.me).
+- ✉️ Want to work with me or ask me a question? Feel free to reach me out via email at [contact@ratulsaha.me](mailto:contact@ratulsaha.me).
 
 ## My Skill Set
 
@@ -26,11 +26,12 @@ Hello there. Welcome to my GitHub profile. I am a full time freelance web develo
 - Git
 - Linux servers
 - NoSQL Databases
-- SQL Databases (Entry Level)
+- SQL Databases (Intermediate Level)
 
 ### Other Skills
 
 - VueJS + Vuetify
+- ExpressJS + NestJS
 - ReactJS + NextJS
 - Test Driven Development (TDD)
 - Continuous Integration and Delivery
