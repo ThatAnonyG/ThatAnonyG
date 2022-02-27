@@ -4,7 +4,7 @@ Hello there. Welcome to my GitHub profile. I am a full time freelance web develo
 
 ## About Me
 
-- 👨‍💼 Currently working at [Cheffy](https://cheffy.us) as a Senior Full Stack Dev.
+- 👨‍💼 Currently looking for a Remote position as a Backend Developer.
 - 💻 Check out my portfolio and blog at [ratulsaha.me](https://ratulsaha.me).
 - 👤 Find me on [LinkedIn](https://linkedin.com/in/ratuls).
 - ✨ DM me on [Twitter](https://twitter.com/ThatAnonyG) for anything.
