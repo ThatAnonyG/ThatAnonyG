@@ -1,42 +1,43 @@
-# Ratul Saha (aka. ThatAnonyG)
-Hello there. Welcome to my GitHub profile. I am a full time freelance web developer currently pursuing Diploma in Computer Science and Engineering from 
-[Techo India University](https://www.technoindiauniversity.ac.in). As of now I am learning **Go** and **Elixir** to build a more diverse skill set.
+# Hey, I'm Ratul Saha 👋
+
+Software Development Engineer at **[Flowace](https://flowace.ai)** — building scalable backend systems, high-performance infrastructure, and whatever's next.
 
 ## About Me
 
-- 👨‍💼 Currently looking for a Remote position as a Backend Developer.
-- 💻 Check out my portfolio and blog at [ratulsaha.me](https://ratulsaha.me).
-- 👤 Find me on [LinkedIn](https://linkedin.com/in/ratuls).
-- ✨ DM me on [Twitter](https://twitter.com/ThatAnonyG) for anything.
-- ✉️ Want to work with me or ask me a question? Feel free to reach me out via email at [contact@ratulsaha.me](mailto:contact@ratulsaha.me).
+- 🏢 Full-time SDE at Flowace Technologies (Mar 2022 – Present)
+- 🛠️ Back-end focused — specializing in TypeScript, Go, NestJS, and AWS
+- 🌐 Portfolio & blog: [ratulsaha.me](https://ratulsaha.me)
+- 💼 LinkedIn: [linkedin.com/in/ratuls](https://linkedin.com/in/ratuls)
+- 🐦 Twitter/X: [@ThatAnonyG](https://twitter.com/ThatAnonyG)
+- ✉️ Email: [contact@ratulsaha.me](mailto:contact@ratulsaha.me)
 
-## My Skill Set
+## Tech Stack
 
-### Languages (other than English)
-
-- Javascript + HTML + CSS
-- Typescript
+### Languages
+- TypeScript / JavaScript
+- Go (GoLang)
 - Python
-- Java
 
-### Technologies
-
+### Backend & Frameworks
+- NestJS + Sequelize ORM
+- LoopBack 3
 - NodeJS
+
+### Infrastructure & DevOps
+- AWS (RDS, EC2, and more)
+- Terraform (IaC)
+- CircleCI (CI/CD)
 - Docker
-- Git
-- Linux servers
-- NoSQL Databases
-- SQL Databases (Intermediate Level)
+- Linux
 
-### Other Skills
+### Databases
+- MySQL / RDS
+- NoSQL
 
-- VueJS + Vuetify
-- ExpressJS + NestJS
-- ReactJS + NextJS
-- Test Driven Development (TDD)
-- Continuous Integration and Delivery
+### Frontend (when needed)
+- ReactJS
 
-## Career Stats
+## GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ThatAnonyG&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ThatAnonyG)
 
